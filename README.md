@@ -14,9 +14,7 @@
 
 ## GITHUB WORKSHOP
 1. Create a [GitHub account](https://github.com/)
-2. Generate a new [Authentication Token](https://github.com/settings/tokens/new) and SAVE IT SOMEWHERE SAFE (not a post-it note or word document)
-3. ------
-
+   
 ## DATA MANAGEMENT WORKSHOP
 1. Create an account on the [DMP Assistant](https://dmp-pgd.ca/plans)
 2. Click "Create Plan"
