@@ -1,4 +1,4 @@
-# SFU_NEUR802_TRAIN_Workshop
+# NEUR802 TRAIN Workshop - Spring 2025
 
 ## PYTHON WORKSHOP
 1. Log into [Google Colab](https://colab.research.google.com/) with your Google Account
